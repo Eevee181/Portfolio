@@ -1,2 +1,2 @@
-# Python-portfolio
-Portfolio for python coding
+# Portfolio
+Portfolio for coding
