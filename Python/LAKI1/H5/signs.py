@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Harjoitus 5, tehtävä 8
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma tutkii, onko käyttäjän antamilla kahdella kokonaisluvulla sama etumerkki vai ei,
 # ja tulostaa sen mukaisen tulosteen.

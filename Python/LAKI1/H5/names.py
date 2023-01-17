@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Harjoitus 5, tehtävä 3
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma lisää listalle erisnimiä, jos ne ovat oikein kirjoitettu, eli nimi koostuu
 # kirjaimista ja alkaa suurella alkukirjaimella.

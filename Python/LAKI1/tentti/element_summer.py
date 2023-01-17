@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Tentti, tehtävä 3
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma laskee käyttäjän antamien indeksiarvojen väliin kuuluvien
 # kokonaislukujen listan alkioiden summan ja tulostaa sen lopuksi.

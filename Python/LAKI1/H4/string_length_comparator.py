@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Harjoitus 4, tehtävä 4
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma kysyy käyttäjältä kaksi merkkijonoa ja tarkastaa, ovatko ne yhtä pitkiä
 # vai onko jompi kumpi jonoista pidempi ja kertoo tuloksen tulosteessa.

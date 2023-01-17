@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Harjoitus 6, tehtävä 3
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma laskee kuinka monta kertaa käyttäjän syöttämät merkit esiintyvät hänen
 # merkkijonossaan ja kertoo kumpaa merkkiä löytyy enemmän.

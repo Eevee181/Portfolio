@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Harjoitus 4, tehtävä 7
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma kysyy käyttäjältä merkkijonon ja kuinka monen merkin mittaisia merkkijonoja
 # käyttäjä haluaa siitä paloiteltavan.

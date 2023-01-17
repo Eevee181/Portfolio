@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Mallitentti, tehtävä 4
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Katsotaan löytyykö käyttäjän syöttämästä listasta kuinka monta
 # rajalukua pienempää lukua.

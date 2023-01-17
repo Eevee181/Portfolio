@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Harjoitus 4, tehtävä 5
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma kysyy käyttäjältä merkkijonoa ja merkkijonon kahta indeksiä, joilta tämä
 # haluaa tarkastaa, ovatko ne samanlaisia vai erilaisia.

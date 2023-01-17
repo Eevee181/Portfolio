@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Tentti, tehtävä 1
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma kysyy käyttäjältä vuosiluvun ja tulostaa, kuinka monta minuuttia
 # kyseisenä vuonna on ollut tuomiopäivän ajasta keskiyöhön.

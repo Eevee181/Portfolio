@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Harjoitus 4, tehtävä 3
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma lukee käyttäjältä kaksi merkkijonoa ja tarkistaa, ovatko ne samanlaiset vai
 # erilaiset.

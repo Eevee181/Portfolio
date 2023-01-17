@@ -1,6 +1,6 @@
 /* TIEP5.1 Lausekielinen ohjelmointi II
  * Harjoitus 4, tehtävä 5
- * Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+ * Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
  *
  * Lasketaan numerotauluista, kuinka monta parillista numeroa ne sisältävät.
  */

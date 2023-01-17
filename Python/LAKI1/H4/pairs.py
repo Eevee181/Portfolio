@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Harjoitus 4, tehtävä 2
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma lukee käyttäjältä kaksi merkki ja tarkastaa ovatko kyseiset merkit pari vai ei.
 # Kaari- aalto- haka- ja kulmasulkeet ovat tässä ohjelmassa pareja, jos ensimmäinen

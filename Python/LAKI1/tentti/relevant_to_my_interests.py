@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Tentti, tehtävä 2
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma kysyy käyttäjältä luvut x ja y ja tutkii onko x kiinnostava sen
 # perusteella, että jokainen numero luvusta y esiintyy siinä vähintään kerran.

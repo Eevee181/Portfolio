@@ -1,6 +1,6 @@
 /* TIEP5.1 Lausekielinen ohjelmointi II
  * Harjoitus 5, tehtävä 4
- * Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+ * Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
  *
  * Ohjelman tarkoituksena on kuormittaa luo2d-metodia.
  */

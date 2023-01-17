@@ -1,6 +1,6 @@
 /* TIEP5.1 Lausekielinen ohjelmointi II
  * Harjoitustyö: Binääristä ASCII-grafiikkaa
- * Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+ * Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
  */
 
 import java.util.Scanner;

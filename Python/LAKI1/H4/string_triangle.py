@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Harjoitus 4, tehtävä 6
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma kysyy käyttäjältä merkkijonon ja tulostaa sen "kolmion" muotoon lisäämällä
 # aina yhden kirjaimen merkkijonosta seuraavalle riville.

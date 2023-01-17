@@ -1,6 +1,6 @@
 /* TIEP5.1 Lausekielinen ohjelmointi II
  * Harjoitus 4, tehtävä 7
- * Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+ * Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
  *
  * Käyttäjältä kysytään taulun kokoa, jonka jälkeen luodaan koon perusteella
  * käyttäjän antama taulu, ja sen jälkeen pyydetään käyttäjältä merkki, jonka

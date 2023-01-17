@@ -1,6 +1,6 @@
 /* TIEP5.1 Lausekielinen ohjelmointi II
  * Harjoitus 4, tehtävä 1
- * Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+ * Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
  *
  * Luetaan käyttäjältä järjestysluku ja tulostetaan sen mukainen kuukausi.
  * Tein tämän näin jo alunperin tällä tavalla.

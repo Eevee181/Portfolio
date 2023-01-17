@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Mallitentti, tehtävä 3
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma tulostaa kupsahtaneen pyramidin käyttäjän antamien syötteiden mukaan.
 

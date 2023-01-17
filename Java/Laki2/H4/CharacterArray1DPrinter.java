@@ -1,6 +1,6 @@
 /* TIEP5.1 Lausekielinen ohjelmointi II
  * Harjoitus 4, tehtävä 3
- * Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+ * Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
  *
  * Tulostetaan erillisessä metodissa pääohjelmassa laaditut taulut.
  */

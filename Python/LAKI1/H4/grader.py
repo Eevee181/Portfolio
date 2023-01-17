@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Harjoitus 4, tehtävä 1
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma lukee käyttäjältä tämän tentti- ja hyvityspisteet ja laskee
 # niiden perusteella käyttäjälle tämän arvosanan.

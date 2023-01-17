@@ -1,6 +1,6 @@
 /* TIEP5.1 Lausekielinen ohjelmointi II
  * Harjoitus 4, tehtävä 4
- * Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+ * Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
  *
  * Käyttäjältä pyydetään taulun koko ja sen jälkeen taulukon alkiot, jonka
  * jälkeen taulu tulostetaan erillisessä metodisa.

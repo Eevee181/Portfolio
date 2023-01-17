@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Mallitentti, tehtävä 1
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma tarkastaa käyttäjän antamasta syötteestä matkustajan iän ja
 # matkustusajan ja tulostaa näiden mukaisen lippuhinnan.

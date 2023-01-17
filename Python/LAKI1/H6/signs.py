@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Harjoitus 6, tehtävä 1
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma tarkistaa käyttäjän antamista syötteistä etumerkit ja katsoo onko ne samat.
 # Ohjelma kertoo viimeisessä tulosteessa, ovatko merkit samat vai ei.

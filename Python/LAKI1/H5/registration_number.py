@@ -1,6 +1,6 @@
 # TIEP1.1 Lausekielinen ohjelmointi I
 # Harjoitus 5, tehtävä 1
-# Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+# Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
 
 # Ohjelma tarkistaa onko käyttäjän syöttämä rekisteritunnus muodollisesti
 # oikea. Jos ei ole, ohjelma syöttää virheilmoituksen.

@@ -1,6 +1,6 @@
 /* TIEP5.1 Lausekielinen ohjelmointi II
  * Harjoitus 5, tehtävä 1
- * Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+ * Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
  *
  * Ohjelmassa pyydetään käyttäjältä merkkijono ja lasketaan, mikä on merkkijonon
  * pienin osa.

@@ -1,6 +1,6 @@
 /* TIEP5.1 Lausekielinen ohjelmointi II
  * Harjoitus 4, tehtävä 6
- * Eveliina Toivanen (eveliina.toivanen@tuni.fi)
+ * Eveliina Toivanen (toivanen.eveliinarai@gmail.com)
  *
  * Ohjelmassa pyydetään käyttäjältä merkki ja merkkijono ja lasketaan merkin esiintymät
  * merkkijonossa.
