@@ -30,6 +30,10 @@
  * osa ne tulee laittaa "-merkkien väliin (esimerkiksi "Kaija Koo").
  * Muussa tapauksessa ohjelma lopettaa suorituksensa virheellisen syötemuodon takia.
  *
+ * Ohjelman kirjoittaja
+ * Nimi: Eveliina Toivanen
+ * E-Mail: toivanen.eveliinarai@gmail.com
+ *
  *
  * */
 

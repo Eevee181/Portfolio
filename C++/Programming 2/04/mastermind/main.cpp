@@ -27,9 +27,7 @@
  *
  * Ohjelman kirjoittaja
  * Nimi: Eveliina Toivanen
- * Opiskelijanumero: K440035
- * Käyttäjätunnus: toivanee
- * E-Mail: eveliina.toivanen@tuni.fi
+ * E-Mail: toivanen.eveliinarai@gmail.com
  *
  * Huomioita ohjelmasta ja sen toteutuksesta:
  *

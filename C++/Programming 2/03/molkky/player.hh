@@ -1,3 +1,10 @@
+/*
+ * Ohjelman kirjoittaja
+ * Nimi: Eveliina Toivanen
+ * E-Mail: toivanen.eveliinarai@gmail.com
+ *
+ */
+
 #ifndef PLAYER_HH
 #define PLAYER_HH
 #include <iostream>

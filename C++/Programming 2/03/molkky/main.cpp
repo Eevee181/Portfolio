@@ -1,3 +1,10 @@
+/*
+ * Ohjelman kirjoittaja
+ * Nimi: Eveliina Toivanen
+ * E-Mail: toivanen.eveliinarai@gmail.com
+ *
+ */
+
 #include "player.hh"
 #include <cstdlib>
 #include <iostream>
