@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/editTextNumber"
+        android:layout_width="90dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="37dp"
+        android:ems="10"
+        android:importantForAutofill="no"
+        android:inputType="number"
+        app:layout_constraintEnd_toStartOf="@+id/editTextNumber2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/editTextNumber2"
+        android:layout_width="104dp"
+        android:layout_height="51dp"
+        android:layout_marginStart="16dp"
+        android:ems="10"
+        android:importantForAutofill="no"
+        android:inputType="number"
+        app:layout_constraintBaseline_toBaselineOf="@+id/editTextNumber"
+        app:layout_constraintStart_toEndOf="@+id/editTextNumber"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="82dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="4dp"
+        android:text="@string/laske"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="280dp"
+        android:scaleX="3"
+        android:scaleY="3"
+        android:text="@string/plus"
+        app:layout_constraintBaseline_toBaselineOf="@+id/editTextNumber2"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="152dp"
+        android:scaleX="3"
+        android:scaleY="3"
+        android:text="@string/summm"
+        app:layout_constraintBaseline_toBaselineOf="@+id/editTextNumber2"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextNumber5"
+        style="@style/Widget.AppCompat.Light.AutoCompleteTextView"
+        android:layout_width="53dp"
+        android:layout_height="58dp"
+        android:ems="10"
+        android:inputType="number"
+        android:text="0"
+        tools:layout_editor_absoluteX="272dp"
+        tools:layout_editor_absoluteY="38dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
